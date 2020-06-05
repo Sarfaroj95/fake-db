@@ -1,0 +1,80 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "client": "Ashish Rathi",
+      "projectName": "LMS",
+      "startDate": "04/05/20",
+      "targetDate": "25/30/20",
+      "from": "Kanada",
+      "status": "Green"
+    },
+    {
+      "id": 2,
+      "client": "Ashish Rathi",
+      "projectName": "MarChem",
+      "startDate": "09/03/20",
+      "targetDate": "06/30/20",
+      "from": "Kanada",
+      "status": "Green"
+    },
+    {
+      "id": 3,
+      "client": "Ashish Rathi",
+      "projectName": "Nutricious",
+      "startDate": "04/05/20",
+      "targetDate": "25/30/20",
+      "from": "Kanada",
+      "status": "Green"
+    },
+    {
+      "id": 4,
+      "client": "Ashish Rathi",
+      "projectName": "Nutricious",
+      "startDate": "04/05/20",
+      "targetDate": "25/30/20",
+      "from": "Kanada",
+      "status": "Green"
+    },
+    {
+      "id": 5,
+      "client": "Ashish Rathi",
+      "projectName": "Nutricious",
+      "startDate": "04/05/20",
+      "targetDate": "25/30/20",
+      "from": "Kanada",
+      "status": "Green"
+    }
+  ],
+  "emplist": [],
+  "empdetails": [],
+  "users": [
+    {
+      "id": 1,
+      "fname": "Rishab ",
+      "lname": "Jain",
+      "email": "rishabh@qilinlab.com",
+      "password": "12345678",
+      "active": false,
+      "create_date": "22-03-2020"
+    },
+    {
+      "id": 2,
+      "fname": "Sushanta ",
+      "lname": "Mandal",
+      "email": "sushanta@qilinlab.com",
+      "password": "12345678",
+      "active": false,
+      "create_date": "19-05-2020"
+    },
+    {
+      "id": 3,
+      "fname": "Sushanta ",
+      "lname": "Mandal",
+      "email": "sushanta@qilinlab.com",
+      "password": "12345678",
+      "active": false,
+      "create_date": "19-05-2020"
+    }
+  ]
+}
